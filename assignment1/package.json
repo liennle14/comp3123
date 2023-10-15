@@ -1,0 +1,23 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liennle14/101322849_comp3123_Assignment1.git"
+  },
+  "author": "Lien Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liennle14/101322849_comp3123_Assignment1/issues"
+  },
+  "homepage": "https://github.com/liennle14/101322849_comp3123_Assignment1#readme",
+  "dependencies": {
+    "mongodb": "^6.1.0"
+  }
+}
