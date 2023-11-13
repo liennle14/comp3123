@@ -97,8 +97,8 @@ const UserFormFunction = ({ onSubmit}) => {
                         name='submit'
                         type="submit"
                         value="Submit" />
-            </form>
-            ) : (
+            </form>     
+            ) : (submitted &&
           <div class='submitted'>
             <h2>Submitted Information</h2>
             <p>Email: {formData.email}</p>
