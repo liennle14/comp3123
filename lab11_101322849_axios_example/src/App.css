@@ -1,0 +1,36 @@
+header{
+  text-align: center;
+  background-color: green;
+  padding: 15px;
+}
+
+div{
+
+  background-color: #4ac1c7;
+}
+
+button{
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+#people{
+  padding: 15px;
+
+}
+#people{
+  display: flex;
+  width: 1000px;
+  height: 800px;
+  text-align: left;
+  padding-left: 250px;
+  flex-direction: column;
+}
+.pic{
+  width: 200px; 
+  border-radius: 50%;
+}
+button{
+  width: 100px;
+}
+
